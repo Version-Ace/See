@@ -1,6 +1,4 @@
 
-{\color{red}This \space is \space red \space text}
-{\color{#58A6FF}This \space is \space a \space hex \space color}
 
 https://github.com/user-attachments/assets/ce4a93c4-c526-4220-abba-467321f53306
 
